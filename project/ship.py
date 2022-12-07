@@ -1,3 +1,4 @@
+
 import random
 class World:
     price = 100
@@ -57,11 +58,10 @@ print(Kolya.price)
 
 
 
-
-
-
-
 '''class Ecscursion:
+=======
+class Ecscursion:
+>>>>>>> e409db6b6d50873d9f3de64dbbf0d7199175c564
     passangers = {}
     def __init__(self, route, ship, recording, shedule):
         self.route = route
@@ -83,7 +83,11 @@ class Vechile:
         self.fuel_amount = fuel_amount
         self.condition = condition
 
+
 '''
+
+
+
 
 
 
